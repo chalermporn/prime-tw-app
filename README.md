@@ -73,3 +73,23 @@ bun run preview
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+
+
+# eslint
+
+install eslint
+
+```sh 
+pnpm add -D  @babel/eslint-parser eslint eslint-config-prettier eslint-plugin-nuxt eslint-plugin-prettier eslint-plugin-vue prettier
+```
+
+
+```sh 
+pnpm add -D autoprefixer postcss tailwindcss sass sass-loader
+```
+
+# tailwindcss primevue
+```sh 
+pnpm add  nuxt-primevue primeicons primevue
+```
+
